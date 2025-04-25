@@ -1,1 +1,82 @@
+a {
+  text-decoration: none;
+}
 
+.blue-paw {
+  display: flex;
+  width: 52px;
+  height: 43px;
+  margin-right: 26px;
+}
+
+.card p {
+  color: #fff;
+  margin-left: 20px;
+}
+
+.card h2 {
+  margin-left: 20px;
+}
+
+.hero h1 {
+  font-size: 6rem;
+  line-height: 6.75rem;
+  font-family: alata, sans-serif;
+  color: #fff;
+  text-align: left;
+}
+
+.hero .h1-small {
+  font-size: 4.5rem;
+  line-height: 6.75rem;
+  font-family: alata, sans-serif;
+  color: #fff;
+  text-align: left;
+}
+
+.hero p {
+  color: #fff;
+}
+
+h1 {
+  font-size: 4.5rem;
+  line-height: 6.75rem;
+  font-family: alata, sans-serif;
+  color: #1E1E1E;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2.5rem;
+  line-height: 3.2rem;
+  font-family: alata, sans-serif;
+  color: #fff;
+  text-align: left;
+}
+
+p {
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  font-family: alice, serif;
+  color: #1E1E1E;
+}
+
+ul {
+  list-style: none;
+}
+
+.what-get-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+html {
+  font-size: 10px;
+}
+
+@media (max-width: 1000px) {
+  .navbar {
+    background: var(--bs-secondary);
+  }
+}
