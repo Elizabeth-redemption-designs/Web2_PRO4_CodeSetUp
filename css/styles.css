@@ -2,6 +2,10 @@ a {
   text-decoration: none;
 }
 
+.black-paw-icon {
+  margin-left: 7px;
+}
+
 .blue-paw {
   display: flex;
   width: 52px;
@@ -16,6 +20,15 @@ a {
 
 .card h2 {
   margin-left: 20px;
+}
+
+.footer-container p {
+  color: white;
+}
+
+.form-container h2 {
+  margin-bottom: 15px;
+  margin-top: 25px;
 }
 
 .hero h1 {
@@ -59,6 +72,14 @@ p {
   line-height: 2.4rem;
   font-family: alice, serif;
   color: #1E1E1E;
+}
+
+.register-now h1 {
+  text-align: left;
+}
+
+.testimonial-names {
+  font-size: 2.4rem;
 }
 
 ul {
