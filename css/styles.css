@@ -39,6 +39,10 @@ a {
   text-align: left;
 }
 
+.hero .h1-large {
+  margin-top: 16rem;
+}
+
 .hero .h1-small {
   font-size: 4.5rem;
   line-height: 6.75rem;
